@@ -52,7 +52,7 @@ body {
   }
   
   .part-one {
-    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ), url(/images/back1.jpg) no-repeat;
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ), url(images/back1.jpg) no-repeat;
     background-size: cover;
     z-index: 2;
     height: 450px;
